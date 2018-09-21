@@ -1,0 +1,38 @@
+_repo: Apuntes-biograficos-de-escritores-oradores-y-hombres-de-estado-de-la-Republica-Argentina_53927
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gutiérrez, Juan María
+    aliases:
+    - Gutierrez, Juan Maria
+    - Gutierrez, D. Juan M.
+    birthdate: 1809
+    deathdate: 1878
+    gutenberg_agent_id: '42583'
+    url: http://www.gutenberg.org/2009/agents/42583
+description: ''
+gutenberg_issued: '2017-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53927'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Argentina -- Biography'
+- !lcc 'F2801'
+- GITenberg
+tableOfContents: Adios -- D. Bernardino Rivadavia -- D. José Antonio Miralla -- D.
+  Hipólito Vieites -- D. Juan Ignacio Gorriti -- D. Julian Navarro -- D. Francisco
+  Javier Iturri -- D. Pantaleon Rivarola -- D. Pantaleon Garcia -- D. Ramon Diaz --
+  D. José Rivera Indarte -- D. Patricio de Basabilbaso -- D. Cayetano José Rodriguez
+  -- D. Bernardo Monteagudo -- D. Manuel José de Labarden -- D. Bernardo Vera y Pintado
+  -- D. Julian Leiva -- D. Antonio Saenz -- D. Manuel Moreno -- D. Miguel Calisto
+  del Corro -- D. Estevan Luca y Patron -- D. Florencio Balcarce -- D. Francisco Agustin
+  Wright -- D. Juan Crisóstomo Lafinur -- La Quichua en Santiago -- A Confederaçao
+  dos Tamoyos -- El Dr. D. Teodoro Vilardebó -- Discurso pronunciado en el sepulcro
+  del Dr. D. Vicente Lopez.
+title: Apuntes biograficos de escritores, oradores y hombres de estado de la Republica
+  Argentina
+url: http://www.gutenberg.org/ebooks/53927
